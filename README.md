@@ -15,6 +15,10 @@ What I did
 - Calculated preliminary relative alpha power in the 8–13 Hz band.
 - Created a graph comparing the eyes-open and eyes-closed recordings.
 
+Live demo streamlit link :
+
+https://neurorest-adkewahugzuhe9gbxz4vl7.streamlit.app/
+
 Dataset
 
 I used data from OpenNeuro:
